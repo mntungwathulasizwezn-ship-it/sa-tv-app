@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sabc1",
+    "name": "SABC 1",
+    "category": "Free-to-Air",
+    "logo": "https://www.logos.co.za/images/SABC-1-Logo.png",
+    "streamUrl": "https://sabc-stream.example.com/sabc1",
+    "country": "South Africa",
+    "language": "English/Xhosa"
+  },
+  {
+    "id": "sabc2",
+    "name": "SABC 2",
+    "category": "Free-to-Air",
+    "logo": "https://www.logos.co.za/images/SABC-2-Logo.png",
+    "streamUrl": "https://sabc-stream.example.com/sabc2",
+    "country": "South Africa",
+    "language": "English/Sotho"
+  },
+  {
+    "id": "sabc3",
+    "name": "SABC 3",
+    "category": "Free-to-Air",
+    "logo": "https://www.logos.co.za/images/SABC-3-Logo.png",
+    "streamUrl": "https://sabc-stream.example.com/sabc3",
+    "country": "South Africa",
+    "language": "English"
+  },
+  {
+    "id": "etvhd",
+    "name": "eTV",
+    "category": "Free-to-Air",
+    "logo": "https://www.logos.co.za/images/eTV-Logo.png",
+    "streamUrl": "https://etv-stream.example.com/etv",
+    "country": "South Africa",
+    "language": "English"
+  },
+  {
+    "id": "dstvpremium",
+    "name": "DStv Premium",
+    "category": "DStv Premium",
+    "logo": "https://www.logos.co.za/images/DStv-Premium.png",
+    "streamUrl": "https://dstv-stream.example.com/premium",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  },
+  {
+    "id": "dstvcompact",
+    "name": "DStv Compact",
+    "category": "DStv",
+    "logo": "https://www.logos.co.za/images/DStv-Compact.png",
+    "streamUrl": "https://dstv-stream.example.com/compact",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  },
+  {
+    "id": "mnet",
+    "name": "M-Net",
+    "category": "DStv",
+    "logo": "https://www.logos.co.za/images/M-Net-Logo.png",
+    "streamUrl": "https://dstv-stream.example.com/mnet",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  },
+  {
+    "id": "etv-plus",
+    "name": "eTV Plus",
+    "category": "DStv",
+    "logo": "https://www.logos.co.za/images/eTV-Plus-Logo.png",
+    "streamUrl": "https://dstv-stream.example.com/etv-plus",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  },
+  {
+    "id": "supersport1",
+    "name": "SuperSport 1",
+    "category": "DStv Sports",
+    "logo": "https://www.logos.co.za/images/SuperSport-1.png",
+    "streamUrl": "https://dstv-stream.example.com/supersport1",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  },
+  {
+    "id": "newsmax",
+    "name": "Newsmax",
+    "category": "DStv News",
+    "logo": "https://www.logos.co.za/images/Newsmax.png",
+    "streamUrl": "https://dstv-stream.example.com/newsmax",
+    "country": "South Africa",
+    "language": "English",
+    "requiresSubscription": true
+  }
+]
