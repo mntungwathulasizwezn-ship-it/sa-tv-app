@@ -1,0 +1,57 @@
+{
+  "sabc1": [
+    {
+      "id": "1",
+      "title": "Morning News",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "description": "Daily morning news bulletin"
+    },
+    {
+      "id": "2",
+      "title": "Breakfast Show",
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "description": "Entertainment and talk show"
+    },
+    {
+      "id": "3",
+      "title": "SABC News at 13:00",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "description": "Midday news bulletin"
+    }
+  ],
+  "sabc2": [
+    {
+      "id": "1",
+      "title": "Isibaya",
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "description": "Popular drama series"
+    },
+    {
+      "id": "2",
+      "title": "SABC News at 21:00",
+      "startTime": "21:00",
+      "endTime": "21:30",
+      "description": "Evening news bulletin"
+    }
+  ],
+  "sabc3": [
+    {
+      "id": "1",
+      "title": "Carte Blanche",
+      "startTime": "19:00",
+      "endTime": "19:50",
+      "description": "Award-winning investigative journalism"
+    },
+    {
+      "id": "2",
+      "title": "The Expanse",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "description": "Science fiction series"
+    }
+  ]
+}
